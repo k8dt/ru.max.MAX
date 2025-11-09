@@ -8,6 +8,7 @@
     <name>max.ru</name>
   </developer>
   <summary>Fast and lightweight app for communication and everyday tasks</summary>
+  <summary xml:lang="ru">Быстрое и лёгкое приложение для общения и решения повседневных задач</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary=https://legal.max.ru/ps</project_license>
   <url type="homepage">https://max.ru/</url>
@@ -16,7 +17,11 @@
   <update_contact>help@max.ru</update_contact>
   <description>
     <p>Messenger with a built-in mini-app platform, chatbot builders, and a payment system.</p>
-    <p>To register in the messenger, a valid Russian or Belarusian mobile phone number is required.</p>
+    <p>To register in the messenger, a valid Russian, Belarusian, Armenia, Kazakhstan, Moldova, Kyrgyzstan, Azerbaijan, Tajikistan or Uzbekistan mobile phone number is required.</p>
+    <p>This package is not verified by, affiliated with, or supported by MAX.</p>
+    <p xml:lang="ru">MAX — это быстрое и лёгкое приложение для обмена сообщениями, которое работает на любых устройствах — смартфонах и компьютерах. В него также встроена платформа мини-приложений, конструкторы чат-ботов и платежная система.</p>
+    <p xml:lang="ru">Для регистрации в мессенджере необходим действующий номер мобильного телефона России, Беларуси, Армении, Казахстана, Молдовы, Киргизии, Азербайджана, Таджикистана или Узбекистана.</p>
+    <p xml:lang="ru">Этот пакет не проверен, не связан и не поддерживается MAX.</p>
   </description>
   <screenshots>
     <screenshot type="default">
