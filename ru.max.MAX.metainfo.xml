@@ -57,7 +57,7 @@
       <description><p>Update MAX.deb to 25.12.0-510</p></description>
     </release>
     <release version="25.8.0-490" date="2025-08-28">
-      <description/>
+      <description><p>Update MAX.deb to 25.8.0-490</p></description>
     </release>
   </releases>
 </component>
