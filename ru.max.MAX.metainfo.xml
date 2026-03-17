@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright MAX © 2025 -->
-<component type="desktop">
+<component type="desktop-application">
   <id>ru.max.MAX</id>
   <launchable type="desktop-id">ru.max.MAX.desktop</launchable>
   <name>MAX</name>
@@ -27,12 +27,6 @@
       <image>https://raw.githubusercontent.com/flathub/flathub/9dab43d5b07b7691c72e79e2a9738626d880a73d/screenshot.png</image>
     </screenshot>
   </screenshots>
-  <categories>
-    <category>Network</category>
-    <category>InstantMessaging</category>
-    <category>VideoConference</category>
-    <category>Telephony</category>
-  </categories>
   <content_rating type="oars-1.1">
     <content_attribute id="social-chat">moderate</content_attribute>
     <content_attribute id="social-info">intense</content_attribute>
